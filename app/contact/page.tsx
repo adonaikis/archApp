@@ -172,7 +172,7 @@ export default function ContactSection() {
                     <div className="mt-12 glass-effect p-8 rounded-2xl">
                         <h3 className="text-xl font-bold mb-4 gradient-text">Support Communauté</h3>
                         <p className="text-gray-300 mb-6">
-                        Rejoignez notre communauté active d'apprenants et d'éducateurs pour des échanges enrichissants.
+                        Rejoignez notre communauté active d&apos;apprenants et d&apos;éducateurs pour des échanges enrichissants.
                         </p>
                         <div className="flex space-x-4">
                           <div className="flex space-x-3">

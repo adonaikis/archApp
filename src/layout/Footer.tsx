@@ -129,7 +129,7 @@ export default function Footer() {
                 className="bg-white border border-gray-200 text-sm h-10 rounded-md focus:ring-blue-500 focus:border-blue-500"
               />
               <Button className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-sm">
-                S'abonner
+                S&apos;abonner
               </Button>
             </div>
           </div>
